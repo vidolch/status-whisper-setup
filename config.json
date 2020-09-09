@@ -1,0 +1,11 @@
+{
+	"ListenAddr": "0.0.0.0:30303",
+	"HTTPEnabled": true,
+	"HTTPHost": "127.0.0.1",
+	"HTTPPort": 8545,
+	"APIModules": "eth,shh,net,web3,admin,mailserver",
+	"IPCEnabled": true,
+	"WhisperConfig": {
+		"Enabled": true
+	}
+}
